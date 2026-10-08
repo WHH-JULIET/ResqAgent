@@ -43,3 +43,11 @@ Ensure you have the following installed locally:
    ```bash
    git clone [https://github.com/WHH-JULIET/ResqAgent.git](https://github.com/WHH-JULIET/ResqAgent.git)
    cd ResqAgent
+
+## Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+
+Try out the live command dashboard: **[ResqAgent Live Demo](https://your-app-name.streamlit.app)**
+
+*(Note: The live demo connects to free-tier cloud instances for inference and vector retrieval.)*
